@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marcos Magno and I'm a Fullstack Developer Junior from Candeias - BA</h2>
+<h2 align="center">Hi 👋! My name is Marcos Magno and I'm a Fullstack Developer Junior from Candeias - BA</h2>
 
 ###
 
